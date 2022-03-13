@@ -1,0 +1,14 @@
+{
+  "coc.preferences.useQuickfixForLocations": true,
+  "suggest.snippetsSupport": true,
+  "prettier.formatterPriority": 1,
+  "coc.preferences.formatOnSaveFiletypes": ["*"],
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextCurrentLineOnly": false,
+
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false
+}
